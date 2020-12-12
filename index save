@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <title>My School</title>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body><nav class="navbar-inverse my_nav_bar"><div class="collapse navbar-collapse" id="myNavbar">
+    
+        <ul class="nav navbar-nav">
+            <li><a href="#school">School Name</a></li>
+            <li><a href="#camp">Campus Life</a></li>
+            <li><a href="#vi">Video</a></li>
+            <li><a href="#co">Contact Us</a></li>
+        </ul>
+    </div>
+    </nav>
+    <section id="school"><div>
+        <marquee width="10%" height="10%" direction="right">
+            <h1>K.V.A</h1>
+        </marquee>
+        </div>
+        <div><img src="download.jpg"></div>
+    </section>
+    <section id="camp">
+        <h2>Campus life</h2>
+        <p>We go to school then we go to assembli hall and then do our prayer then we go for breakfast and come to class room then after 3to4 periods we go for lunch and yhen we have 2 more periods then half day borders go home and full day borders wait after I.E.C the games period begin than after games they go to home.</p>
+    </section>
+    <section id="vi">
+        <h3>Video</h3><iframe width="560" height="315" src="https://www.youtube.com/embed/VEO5t_lhgC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    <section id="co">
+        <h4>Contact School</h4><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.6872555567124!2d81.58387791493628!3d21.244246785882094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a28de1a2ced0f07%3A0xf32968ccc3238499!2sKanger%20Valley%20Academy!5e0!3m2!1sen!2sin!4v1607791241126!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <h5>www.kva.edu.in</h5>
+    </section>
+</body>
+
+</html>
